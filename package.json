@@ -1,0 +1,24 @@
+{
+  "name": "logify-console-transport",
+  "version": "0.1.0",
+  "description": "Console transport for logify",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/purposeindustries/node-logify-console-transport"
+  },
+  "keywords": [
+    "logify",
+    "console",
+    "transport"
+  ],
+  "author": "Purpose Industries <dev@purposeindustries.co> (http://purposeindustries.co)",
+  "contributors": [
+    "Bence Dányi <bd@purposeindustries.co>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/purposeindustries/node-logify-console-transport/issues"
+  },
+  "homepage": "https://github.com/purposeindustries/node-logify-console-transport"
+}
